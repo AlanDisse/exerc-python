@@ -2,4 +2,4 @@
 #20/06/2023
 #HALLAN VICTOR PEREIRA DE ALMEIDA
 nome = input('Qual é seu nome?')
-print('Olá,',nome,'é um prazer te conhecer!')
+print('Olá {}, é um prazer te conhecer!'.format(nome))
