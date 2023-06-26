@@ -4,5 +4,5 @@
 cigarros_dia= int(input('Quantos cigarros você fumou por dia durante este tempo:'))
 anos_fumando= int(input('Quantos anos você fumou durante este tempo:'))
 ano_total = anos_fumando*365
-vida_perdida = (10*ano_total1*cigarros_dia)/1440
+vida_perdida = (10*ano_total*cigarros_dia)/1440
 print('Você perdeu de vida um total de {}dias'.format(vida_perdida))
