@@ -1,5 +1,5 @@
 #O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos launos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
-#22/06/2023
+#26/06/2023
 #HALLAN VICTOR PEREIRA DE ALMEIDA
 from random import shuffle
 primeiro_aluno = input('Primeiro aluno:')
